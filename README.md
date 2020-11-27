@@ -1,4 +1,4 @@
 # formulario
 
 ## tela
-![tela_inicial](nome_dafoto.png "tela_inicial")
+![tela_inicial](tela.png "tela_inicial")
